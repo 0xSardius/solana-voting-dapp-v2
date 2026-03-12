@@ -6,6 +6,7 @@ skip-lint = false
 
 [programs.devnet]
 vault = "GDdxxaxSUZMU2jkRcAxXcx15mjUeKtGJUag2bg1XD884"
+voting = "BuNqj2CksTP9QwbYBhgC9DhHLbtnru2x8uSyumWRuEeq"
 
 [registry]
 url = "https://api.apr.dev"
